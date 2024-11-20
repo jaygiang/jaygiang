@@ -9,7 +9,7 @@
 #### 🔭 **Currently Working On:**
   - **[RADFish Framework](https://github.com/NMFS-RADFish):** React + IndexedDB for offline-first apps.
   - Maintaining React boilerplates and updating documentation.
-  - Building a **service-based project** with **SvelteKit**.
+  - Building a **service-based project** with **SvelteKit** with 3rd party integrations.
   - Improving **SEO** for better online visibility.
 
 #### 🔧 **Past Highlights:**
