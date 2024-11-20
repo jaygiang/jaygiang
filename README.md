@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hello 👋 I'm Jay 
 
-<!--
-**jaygiang/jaygiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a>
+  <img src="https://github-readme-stats.vercel.app/api?username=jaygiang&hide=stars&hide_rank=true&show_icons=true&theme=radical&include_all_commits=true" alt="Jay Giang's GitHub Stats" align="right" />
+</a>
 
-Here are some ideas to get you started:
+### A software developer who writes code today just to refactor it tomorrow
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Projects
+- 🔭 **Currently Working On:**
+  - **[RADFish Framework](https://github.com/NMFS-RADFish):** React + IndexedDB for offline-first apps.
+  - Maintaining React boilerplates and updating documentation for developers.
+  - Building a **service-based project** with **SvelteKit** and 3rd party integrations.
+  - Improving **SEO** for better online visibility.
+
+- 🔧 **Past Highlights:**
+  - Created a **Next.js PDF Viewer** with Tailwind CSS and carousel features.
+  - Built a dynamic NFT tool using **Svelte** with **Unity** integration.
+  - Developed **WordPress components** with PHP for magazine pages.
+  - Enhanced a React Native app with new designs and features.
+  - Mentored students to achieve hackathon wins as a **Lead Instructor**.
+
+![Jay Giang's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jaygiang&theme=dracula)
+
+---
+
+### 🤝 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/jaygiang)  
+- 📧 Email: [hello@jaygiang.dev](mailto:hello@jaygiang.dev)
