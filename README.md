@@ -6,14 +6,13 @@
 
 ### A software developer who writes code today just to refactor it tomorrow.
 
-### 🛠️ My Projects
-- 🔭 **Currently Working On:**
+#### 🔭 **Currently Working On:**
   - **[RADFish Framework](https://github.com/NMFS-RADFish):** React + IndexedDB for offline-first apps.
-  - Maintaining React boilerplates and updating documentation for developers.
-  - Building a **service-based project** with **SvelteKit** and 3rd party integrations.
+  - Maintaining React boilerplates and updating documentation.
+  - Building a **service-based project** with **SvelteKit**.
   - Improving **SEO** for better online visibility.
 
-- 🔧 **Past Highlights:**
+#### 🔧 **Past Highlights:**
   - Created a **Next.js PDF Viewer** with Tailwind CSS and carousel features.
   - Built a dynamic NFT tool using **Svelte** with **Unity** integration.
   - Developed **WordPress components** with PHP for magazine pages.
