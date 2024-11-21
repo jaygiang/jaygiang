@@ -26,3 +26,5 @@
 ### 🤝 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/jaygiang)  
 - 📧 Email: [hello@jaygiang.dev](mailto:hello@jaygiang.dev)
+
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=jaygiang) -->
