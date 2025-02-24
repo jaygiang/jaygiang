@@ -4,8 +4,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jaygiang&hide=stars&rank_icon=github&show_icons=true&theme=radical&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage" alt="Jay Giang's GitHub Stats" align="right" />
 </a>
 
-### A software developer who writes code today just to refactor it tomorrow.
-
 #### 🔭 **Currently Working On:**
   - **[RADFish Framework](https://github.com/NMFS-RADFish):** React + IndexedDB for offline-first apps.
   - Maintaining React boilerplates and updating documentation.
